@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I'm Thabang 👋
+
+I like to tell stories with [words](https://thabang.blog/welcome) and code.
+
+I've worked for cool startups in South Africa, and now I spend my time thinking about to improve the retail experience — online & offline — if you'd like to chat about any of this, you can reach me on my [Twitter](https://twitter.com/tseboho) or shoot me [email](mailto:hello@thabang.blog).
 
 <!--
 **tseboho/tseboho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +18,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi, I'm Thabang
