@@ -1,6 +1,6 @@
 ### Hi, I'm Thabang 👋
 
-I like to tell stories with [words](https://thabang.blog/welcome) and code.
+I define myself as a [human](thabang.blog/), [storyteller](https://tiktok.com/@tseboho) and [maker](https://botho.shop)
 
 I've worked for cool startups in South Africa, and now I spend my time thinking about to improve the retail experience — online & offline — if you'd like to chat about any of this, you can reach me on [twitter](https://twitter.com/tseboho), [linkedin](https://linkedin.com/in/tseboho) or [email](mailto:hello@thabang.blog).
 
