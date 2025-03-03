@@ -1,6 +1,6 @@
 ### Hi, I'm Thabang 👋
 
-I define myself as a human, storyteller and [maker](https://muna.africa)
+I define myself as a human, storyteller and [maker](https://botho.works)
 
 I've worked for cool startups in South Africa, and now I spend my time thinking about improving the retail experience — online & offline — if you'd like to chat about any of this, you can reach me on [linkedin](https://linkedin.com/in/tseboho) or [email](mailto:hello@thabang.me).
 
