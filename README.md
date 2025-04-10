@@ -2,7 +2,7 @@
 
 I define myself as a human, storyteller and [maker](https://botho.works)
 
-I've worked for cool startups in South Africa, and now I spend my time thinking about improving the retail experience — online & offline — if you'd like to chat about any of this, you can reach me on [linkedin](https://linkedin.com/in/tseboho) or [email](mailto:hello@thabang.me).
+I've worked for cool startups in South Africa, and now I spend my time thinking about improving the retail experience — online & offline. If you'd like to chat about any of this, you can reach me on [linkedin](https://linkedin.com/in/tseboho) or [email](mailto:thabang@botho.works).
 
 <!--
 **tseboho/tseboho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
